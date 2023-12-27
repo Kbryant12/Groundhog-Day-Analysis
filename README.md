@@ -8,7 +8,7 @@ The dataset used for this analysis was sourced from archive.csv. It contains rec
 Project Structure
 Data Import and Cleaning: The initial phase involves importing the dataset and performing necessary data cleaning tasks such as renaming columns and handling missing values.
 
-Exploratory Data Analysis (EDA): Various visualizations, including scatter plots, histograms, and box plots, were created to understand the distribution and relationship between the variables.
+Exploratory Data Analysis (EDA): Various visualizations, including scatter plots, bar plots, and box plots, were created to understand the distribution and relationship between the variables.
 
 Statistical Analysis: A Pearson correlation coefficient was computed to quantify the relationship between February temperature and shadow presence.
 
